@@ -5,6 +5,7 @@ html, body {
 body {
   background: url('dupont.jpg');
   background-size: cover;
+  background-position: center center;
   color: #ffffff;
   font-family: Helvetica, Arial, sans-serif;
   margin: 0px;
