@@ -116,3 +116,19 @@ a:hover{
   }
 }
 /* End Mobile styles for iPhone */
+
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 667px)
+and (orientation : landscape) {
+
+  .container {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  .topimage {
+    margin: 10px;
+  }
+
+}
