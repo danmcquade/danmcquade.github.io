@@ -16,6 +16,7 @@ a {
   text-decoration: none;
   font-size: 18px;
   text-shadow: 1px 3px 2px rgba(0,0,0,0.3);
+  font-weight: bold;
 }
 
 a:hover{
@@ -107,7 +108,6 @@ a:hover{
   a {
     font-size: 40px;
     margin: 10px;
-    font-weight: bold;
   }
 
   .footer {
